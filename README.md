@@ -1,6 +1,6 @@
 # CloudSOC-X
 
-[![CI](https://github.com/yourusername/cloudsoc-x/actions/workflows/ci.yml/badge.svg)](https://github.com/yourusername/cloudsoc-x/actions)
+[![CI](https://github.com/aadi-2509/cloudsoc-x/actions/workflows/ci.yml/badge.svg)](https://github.com/aadi-2509/cloudsoc-x/actions)
 [![Python](https://img.shields.io/badge/python-3.10%20%7C%203.11%20%7C%203.12-blue)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
